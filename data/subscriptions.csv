@@ -1,0 +1,82 @@
+﻿subscription_id,vendor,tool_name,user,payment_date,renewal_date,billing_type,amount,currency,status,cost_center,payment_method,annual_cost,is_active,renewal_soon
+SP-001,Adage,Adage Premium,User_A,2026-02-09,2027-02-09,Annual,199,USD,Active,Marketing,Card,199,1,No
+SP-002,Notion,Notion Team Plan,User_B,2026-01-15,2026-02-15,Monthly,12,USD,Active,Product,Card,144,1,Yes
+SP-003,Figma,Figma Professional,User_C,2026-03-01,2026-04-01,Monthly,15,USD,Active,Design,Card,180,1,Yes
+SP-004,AWS,EC2 Instance,User_D,2026-01-01,2026-04-01,Quarterly,300,USD,Active,Engineering,Invoice,1200,1,Yes
+SP-005,HubSpot,Marketing Hub,User_E,2025-12-01,2026-12-01,Annual,1200,USD,Active,Marketing,Invoice,1200,1,No
+SP-006,Canva,Canva Pro,User_F,2026-02-10,2026-03-10,Monthly,10,USD,Cancelled,Marketing,Card,120,0,Yes
+SP-007,Slack,Slack Business,User_G,2026-01-20,2026-02-20,Monthly,8,USD,Active,Operations,Card,96,1,Yes
+SP-008,Zoom,Zoom Pro,User_H,2026-02-01,2027-02-01,Annual,150,USD,Active,HR,Card,150,1,No
+SP-009,Stripe,Payment Processing,User_I,2026-01-05,2026-02-05,Monthly,50,USD,Active,Finance,Invoice,600,1,Yes
+SP-010,Google,Google Workspace,User_J,2026-01-10,2026-02-10,Monthly,6,USD,Active,Operations,Card,72,1,Yes
+SP-011,Dropbox,Dropbox Business,User_K,2026-02-11,2027-02-11,Annual,240,USD,Active,Operations,Card,240,1,No
+SP-012,Adobe,Adobe Creative Cloud,User_L,2026-01-25,2026-02-25,Monthly,60,USD,Active,Design,Card,720,1,Yes
+SP-013,LinkedIn,LinkedIn Premium,User_M,2026-02-03,2026-03-03,Monthly,40,USD,Active,HR,Card,480,1,Yes
+SP-014,Miro,Miro Team,User_N,2026-02-07,2026-03-07,Monthly,12,USD,Active,Product,Card,144,1,Yes
+SP-015,Asana,Asana Premium,User_O,2026-01-30,2026-02-28,Monthly,20,USD,Active,Product,Card,240,1,Yes
+SP-016,Zendesk,Zendesk Suite,User_P,2026-01-12,2027-01-12,Annual,800,USD,Active,Support,Invoice,800,1,No
+SP-017,Salesforce,Salesforce CRM,User_Q,2026-01-05,2027-01-05,Annual,1500,USD,Active,Sales,Invoice,1500,1,No
+SP-018,Mailchimp,Email Marketing,User_R,2026-02-02,2026-03-02,Monthly,25,USD,Active,Marketing,Card,300,1,Yes
+SP-019,Trello,Trello Gold,User_S,2026-02-06,2026-03-06,Monthly,5,USD,Active,Product,Card,60,1,Yes
+SP-020,Notion,Notion Enterprise,User_T,2026-02-08,2027-02-08,Annual,600,USD,Active,Product,Invoice,600,1,No
+SP-021,Notion,Notion Enterprise,User_T,2026-02-08,2027-02-08,Annual,601,USD,Active,Product,Invoice,601,1,No
+SP-021,Airtable,Airtable Pro,User_U,2026-02-12,2026-03-12,Monthly,20,USD,Active,Product,Card,240,1,Yes
+SP-022,Intercom,Customer Platform,User_V,2026-01-18,2027-01-18,Annual,900,EUR,Active,Support,Invoice,900,1,No
+SP-023,ClickUp,ClickUp Business,User_W,2026-02-03,2026-05-03,Quarterly,90,USD,Active,Product,Card,360,1,Yes
+SP-024,Pipedrive,CRM System,User_X,2026-01-25,2026-02-25,Monthly,25,EUR,Active,Sales,Card,300,1,Yes
+SP-025,SEMrush,SEO Toolkit,User_Y,2026-02-02,2027-02-02,Annual,1200,USD,Active,Marketing,Card,1200,1,No
+SP-026,Hotjar,User Analytics,User_Z,2026-02-07,2026-03-07,Monthly,39,EUR,Active,Product,Card,468,1,Yes
+SP-027,Typeform,Survey Tool,User_AA,2026-01-29,2026-04-29,Quarterly,75,USD,Cancelled,Marketing,Card,300,0,Yes
+SP-028,Mixpanel,Product Analytics,User_BB,2026-02-10,2027-02-10,Annual,1500,USD,Active,Product,Invoice,1500,1,No
+SP-029,Amplitude,Analytics Suite,User_CC,2026-02-11,2026-03-11,Monthly,60,EUR,Active,Product,Card,720,1,Yes
+SP-030,Freshdesk,Support Desk,User_DD,2026-01-15,2027-01-15,Annual,700,USD,Active,Support,Invoice,700,1,No
+SP-031,Monday,Project Management,User_EE,2026-02-08,2026-03-08,Monthly,18,EUR,Active,Operations,Card,216,1,Yes
+SP-032,Wrike,Task Manager,User_FF,2026-02-01,2026-05-01,Quarterly,120,USD,Active,Product,Card,480,1,Yes
+SP-033,SurveyMonkey,Survey Platform,User_GG,2026-01-22,2027-01-22,Annual,400,EUR,Active,Marketing,Card,400,1,No
+SP-034,HubSpot,Sales Hub,User_HH,2026-01-10,2026-02-10,Monthly,50,USD,Active,Sales,Card,600,1,Yes
+SP-035,Calendly,Scheduling Tool,User_II,2026-02-09,2026-03-09,Monthly,12,USD,Active,HR,Card,144,1,Yes
+SP-036,Xero,Accounting Software,User_JJ,2026-01-28,2026-04-28,Quarterly,200,EUR,Active,Finance,Invoice,800,1,Yes
+SP-037,QuickBooks,Accounting,User_KK,2026-01-05,2027-01-05,Annual,600,USD,Active,Finance,Invoice,600,1,No
+SP-038,Revolut,Business Banking,User_LL,2026-02-03,2026-03-03,Monthly,15,EUR,Active,Finance,Card,180,1,Yes
+SP-039,Wise,Transfers,User_MM,2026-02-06,2026-03-06,Monthly,10,EUR,Cancelled,Finance,Card,120,0,Yes
+SP-040,Stripe,Billing API,User_NN,2026-01-20,2026-04-20,Quarterly,250,USD,Active,Finance,Invoice,1000,1,Yes
+SP-041,Google,Cloud Storage,User_OO,2026-02-04,2026-03-04,Monthly,8,EUR,Active,Engineering,Card,96,1,Yes
+SP-042,Azure,Microsoft Cloud,User_PP,2026-01-12,2027-01-12,Annual,1800,USD,Active,Engineering,Invoice,1800,1,No
+SP-043,DigitalOcean,Cloud Hosting,User_QQ,2026-02-02,2026-03-02,Monthly,35,USD,Active,Engineering,Card,420,1,Yes
+SP-044,Heroku,App Platform,User_RR,2026-01-18,2026-04-18,Quarterly,150,EUR,Active,Engineering,Card,600,1,Yes
+SP-045,Vercel,Frontend Hosting,User_SS,2026-02-07,2026-03-07,Monthly,20,USD,Active,Engineering,Card,240,1,Yes
+SP-046,Netlify,Web Hosting,User_TT,2026-02-05,2026-03-05,Monthly,18,EUR,Active,Engineering,Card,216,1,Yes
+SP-047,GitHub,Code Hosting,User_UU,2026-01-30,2027-01-30,Annual,400,USD,Active,Engineering,Card,400,1,No
+SP-048,GitLab,DevOps Platform,User_VV,2026-01-22,2026-04-22,Quarterly,300,EUR,Active,Engineering,Invoice,1200,1,Yes
+SP-049,Jira,Issue Tracking,User_WW,2026-02-01,2026-03-01,Monthly,25,USD,Active,Product,Card,300,1,Yes
+SP-050,Confluence,Documentation,User_XX,2026-02-03,2027-02-03,Annual,500,USD,Active,Product,Card,500,1,No
+SP-051,Payoneer,Payments,User_YY,2026-02-06,2026-03-06,Monthly,12,AED,Active,Finance,Card,144,1,Yes
+SP-052,Zoho,CRM,User_ZZ,2026-01-25,2026-04-25,Quarterly,180,AED,Active,Sales,Card,720,1,Yes
+SP-053,Oracle,DB Service,User_AB,2026-01-15,2027-01-15,Annual,2200,USD,Active,Engineering,Invoice,2200,1,No
+SP-054,SAP,ERP,User_AC,2026-01-05,2027-01-05,Annual,3000,EUR,Active,Finance,Invoice,3000,1,No
+SP-055,Slack,Messaging,User_AD,2026-02-02,2026-03-02,Monthly,10,EUR,Active,Operations,Card,120,1,Yes
+SP-056,Discord,Communication,User_AE,2026-02-04,2026-03-04,Monthly,5,USD,Cancelled,Operations,Card,60,0,Yes
+SP-057,Zoom,Video Calls,User_AF,2026-02-01,2027-02-01,Annual,200,USD,Active,HR,Card,200,1,No
+SP-058,Teams,Collaboration,User_AG,2026-01-20,2026-04-20,Quarterly,160,EUR,Active,HR,Card,640,1,Yes
+SP-059,Dropbox,File Storage,User_AH,2026-02-03,2026-03-03,Monthly,12,EUR,Active,Operations,Card,144,1,Yes
+SP-060,Box,Cloud Storage,User_AI,2026-01-18,2027-01-18,Annual,350,USD,Active,Operations,Invoice,350,1,No
+SP-061,Canva,Design Tool,User_AJ,2026-02-06,2026-03-06,Monthly,10,EUR,Active,Marketing,Card,120,1,Yes
+SP-062,Photoshop,Design Suite,User_AK,2026-01-15,2026-04-15,Quarterly,90,USD,Active,Design,Card,360,1,Yes
+SP-063,Illustrator,Design Suite,User_AL,2026-01-10,2027-01-10,Annual,250,EUR,Active,Design,Card,250,1,No
+SP-064,InVision,Prototyping,User_AM,2026-02-02,2026-03-02,Monthly,15,USD,Active,Design,Card,180,1,Yes
+SP-065,Sketch,UI Design,User_AN,2026-02-01,2027-02-01,Annual,120,EUR,Active,Design,Card,120,1,No
+SP-066,Figma,Enterprise,User_AO,2026-01-05,2027-01-05,Annual,800,USD,Active,Design,Invoice,800,1,No
+SP-067,Notion,Enterprise,User_AP,2026-02-03,2027-02-03,Annual,700,EUR,Active,Product,Invoice,700,1,No
+SP-068,Asana,Business,User_AQ,2026-02-06,2026-03-06,Monthly,20,USD,Active,Product,Card,240,1,Yes
+SP-069,Trello,Team,User_AR,2026-02-05,2026-03-05,Monthly,6,USD,Active,Product,Card,72,1,Yes
+SP-070,Miro,Enterprise,User_AS,2026-01-20,2027-01-20,Annual,650,EUR,Active,Product,Invoice,650,1,No
+SP-071,HubSpot,CRM,User_AT,2026-01-12,2026-04-12,Quarterly,300,USD,Active,Sales,Card,1200,1,Yes
+SP-072,Salesforce,Cloud,User_AU,2026-01-05,2027-01-05,Annual,2000,USD,Active,Sales,Invoice,2000,1,No
+SP-073,Pipedrive,Advanced,User_AV,2026-02-01,2026-03-01,Monthly,30,EUR,Active,Sales,Card,360,1,Yes
+SP-074,Zendesk,Support,User_AW,2026-01-15,2027-01-15,Annual,900,USD,Active,Support,Invoice,900,1,No
+SP-075,Intercom,Support Chat,User_AX,2026-02-02,2026-03-02,Monthly,50,EUR,Active,Support,Card,600,1,Yes
+SP-076,Freshdesk,Support,User_AY,2026-02-05,2026-03-05,Monthly,25,USD,Cancelled,Support,Card,300,0,Yes
+SP-077,Mailchimp,Email,User_AZ,2026-02-03,2026-03-03,Monthly,18,EUR,Active,Marketing,Card,216,1,Yes
+SP-078,SendGrid,Email API,User_BA,2026-01-20,2026-04-20,Quarterly,200,USD,Active,Marketing,Card,800,1,Yes
+SP-079,SEMrush,SEO,User_BB,2026-01-15,2027-01-15,Annual,1300,USD,Active,Marketing,Card,1300,1,No
+SP-080,Ahrefs,SEO Tool,User_BC,2026-02-01,2026-03-01,Monthly,99,EUR,Active,Marketing,Card,1188,1,Yes
