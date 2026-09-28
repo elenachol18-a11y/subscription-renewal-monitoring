@@ -13,8 +13,7 @@ them, and what is their annualized cost in each original currency?
   reproducible rather than changing with today's date.
 - SQLite queries in `subscription_renewal_analysis.sql` check ID uniqueness
   and annualized costs, then create the renewal watchlist and summaries.
-- Tableau workbook: `Subscription_Renewal_Monitoring.twbx` (add after exporting
-  the completed packaged workbook). It charts renewal counts by cost center
+- Tableau workbook: `Subscription_Renewal_Monitoring.twbx`. It charts renewal counts by cost center
   and shows annualized costs by currency.
 
 ## Findings
